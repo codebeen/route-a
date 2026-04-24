@@ -1,0 +1,15 @@
+.next
+node_modules
+.pnpm
+.pnpm-store
+dist
+.cache
+.env
+.env.local
+.env.development.local
+npm-debug.log
+yarn-error.log
+.DS_Store
+.git
+coverage
+build
